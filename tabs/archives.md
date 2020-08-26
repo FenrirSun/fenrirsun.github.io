@@ -1,5 +1,5 @@
 ---
-title: Archives
+title: 发布时间
 type: archives
 # The Archives of posts.
 # v2.0

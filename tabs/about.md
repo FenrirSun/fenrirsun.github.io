@@ -1,5 +1,5 @@
 ---
-title: About
+title: 关于我们
 
 # The About page
 # v2.0

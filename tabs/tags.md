@@ -1,5 +1,5 @@
 ---
-title: Tags
+title: 类型
 type: tags
 # All the Tags of posts.
 # v2.0
